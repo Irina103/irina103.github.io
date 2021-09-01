@@ -52,7 +52,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  font-family: 'Fira Code', 'Fira Mono', 'Monaco', 'Courier New', monospace;
+  font-family: 'Source Code Pro', 'Monaco', 'Courier New', monospace;
   background-color: #2e3440;
   background-color: var(--background);
 }
