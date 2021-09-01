@@ -1,2 +1,2 @@
-# wduyck.me
-The personal website of William Duyck.
+# irinatries.com
+The personal website of Irina Emelianova.
