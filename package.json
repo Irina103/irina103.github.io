@@ -1,19 +1,19 @@
 {
-  "name": "fuzzyfox.github.io",
-  "version": "6.0.3",
-  "description": "Personal landing page for William Duyck (https://wduyck.me/)",
+  "name": "irina103.github.io",
+  "version": "0.5.0",
+  "description": "Personal landing page for William Duyck (https://irinatries.com/)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuzzyfox/fuzzyfox.github.io.git"
+    "url": "git+https://github.com/irina103/irina103.github.io.git"
   },
-  "author": "William Duyck <fuzzyfox0@gmail.com>",
+  "author": "Irina Emelianova",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/fuzzyfox/fuzzyfox.github.io/issues"
+    "url": "https://github.com/irina103/irina103.github.io/issues"
   },
-  "homepage": "https://github.com/fuzzyfox/fuzzyfox.github.io#readme",
+  "homepage": "https://github.com/irina103/irina103.github.io#readme",
   "private": true
 }
