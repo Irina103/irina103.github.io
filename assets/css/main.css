@@ -114,6 +114,10 @@ a {
   color: var(--dud-color);
 }
 
+#nav a{
+  margin: 0 5rem;
+}
+
 @media (max-width: 479.9px) {
   header {
     height: 21rem;
